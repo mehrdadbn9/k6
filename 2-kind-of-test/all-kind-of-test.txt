@@ -1,0 +1,30 @@
+
+001 Load-test-types
+https://k6.io/docs/test-types/load-test-types/
+
+004 Smoke-testing
+https://k6.io/docs/test-types/smoke-testing/
+
+005 Smoke-testing-in-k6
+https://k6.io/docs/test-types/smoke-testing/#smoke-testing-in-k6
+
+007 Load-testing
+https://k6.io/docs/test-types/load-testing/
+
+008 Average-load-testing-in-k6
+https://k6.io/docs/test-types/load-testing/#average-load-testing-in-k6
+
+010 Stress-testing
+https://k6.io/docs/test-types/stress-testing/
+
+011 Stress-testing-in-k6
+https://k6.io/docs/test-types/stress-testing/#stress-testing-in-k6
+
+013 Spike-testing
+https://k6.io/docs/test-types/spike-testing/
+
+014 Spike-testing-in-k6
+https://k6.io/docs/test-types/spike-testing/#spike-testing-in-k6
+
+016 Breakpoint-testing
+https://k6.io/docs/test-types/breakpoint-testing/

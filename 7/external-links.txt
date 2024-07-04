@@ -1,0 +1,12 @@
+
+003 badssl.com
+https://badssl.com/
+
+003 Insecure-skip-TLS-verify
+https://k6.io/docs/using-k6/k6-options/reference/#insecure-skip-tls-verify
+
+005 How-to-use-options
+https://k6.io/docs/using-k6/k6-options/how-to/
+
+005 Options-reference
+https://k6.io/docs/using-k6/k6-options/reference/

@@ -1,0 +1,9 @@
+
+002 Sign-up-to-Grafana-Cloud-k6
+https://grafana.com/products/cloud/k6/
+
+007 Performance-Insights
+https://k6.io/docs/cloud/analyzing-results/performance-insights/
+
+007 Group-URLs-under-one-tag
+https://k6.io/docs/using-k6/http-requests/#url-grouping

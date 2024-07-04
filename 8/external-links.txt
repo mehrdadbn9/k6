@@ -1,0 +1,12 @@
+
+003 Installing-Jenkins
+https://www.jenkins.io/doc/book/installing/
+
+003 k6-installation
+https://k6.io/docs/get-started/installation/
+
+004 GitHub-project-repo-with-k6-tests
+https://github.com/vdespa/k6-sample-tests
+
+006 Gitlab-CI-pipeline-tutorial-for-beginners
+https://www.youtube.com/watch?v=Jav4vbUrqII

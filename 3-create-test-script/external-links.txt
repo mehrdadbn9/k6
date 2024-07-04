@@ -1,0 +1,21 @@
+
+005 Built-in-metrics
+https://k6.io/docs/using-k6/metrics/reference/
+
+007 Create-custom-metrics
+https://k6.io/docs/using-k6/metrics/create-custom-metrics/
+
+008 k6-API-k6-http-Response
+https://k6.io/docs/javascript-api/k6-http/response/
+
+009 API-Mock-Service-Mocky.io
+https://designer.mocky.io/
+
+009 Tags-and-Groups
+https://k6.io/docs/using-k6/tags-and-groups/
+
+011 k6-documentation-Groups
+https://k6.io/docs/using-k6/tags-and-groups/#groups
+
+015 Test-lifecycle
+https://k6.io/docs/using-k6/test-lifecycle/

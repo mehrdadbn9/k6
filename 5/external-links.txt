@@ -1,0 +1,21 @@
+
+001 Environment-variables
+https://k6.io/docs/using-k6/environment-variables/
+
+002 randomIntBetween-min-max-
+https://k6.io/docs/javascript-api/jslib/utils/randomintbetween/
+
+003 randomString
+https://k6.io/docs/javascript-api/jslib/utils/randomstring/
+
+004 randomItem-array-
+https://k6.io/docs/javascript-api/jslib/utils/randomitem/
+
+005 Data-Parameterization-From-a-JSON-file
+https://k6.io/docs/examples/data-parameterization/#from-a-json-file
+
+006 Data-Parameterization-From-a-CSV-file
+https://k6.io/docs/examples/data-parameterization/#from-a-csv-file
+
+006 Papa-Parse
+https://www.papaparse.com/

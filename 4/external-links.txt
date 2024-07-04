@@ -1,0 +1,18 @@
+
+001 Introduction-to-APIs-Postman-and-API-testing-in-25-minutes
+https://www.youtube.com/watch?v=JzpFsrZnNDo
+
+001 Download-the-Postman-app
+https://www.postman.com/downloads/
+
+004 k6-REST-API
+https://test-api.k6.io/
+
+006 HTTP-debugging
+https://k6.io/docs/using-k6/http-debugging/
+
+008 String-interpolation
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#string_interpolation
+
+015 Difference-between-cookies-session-and-tokens
+https://youtu.be/GhrvZ5nUWNg?si=tncB2V3ByagCmzVt
